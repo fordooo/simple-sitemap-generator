@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-states.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-atlanta.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-chicago.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-columbus.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-detroit.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-houston.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-los-angeles.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-miami.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-new-york-city.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-philadelphia.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://website.com/sitemaps/sitemap-city-seattle.xml</loc>
+  </sitemap>
+</sitemapindex>
