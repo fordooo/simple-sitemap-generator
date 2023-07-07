@@ -1,0 +1,11 @@
+{
+  "name": "simple-sitemap-generator",
+  "repository": "https://github.com/fordooo/simple-sitemap-generator",
+  "version": "0.1.0",
+  "scripts": {
+    "sitemap": "node build-sitemaps.js"
+  },
+  "devDependencies": {
+    "xmlbuilder": "^15.1.1"
+  }
+}
